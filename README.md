@@ -1,6 +1,6 @@
 # Hi, I'm Pravallika Chepuri 👋
 
-🎓 MS Computer Science @ Arizona State University  
+🎓 MS Data Science @ Arizona State University  
 🔭 Focused on **Machine Learning**, **Data Science** & **NLP**  
 🌱 Currently exploring Deep Learning & Recommender Systems  
 📫 Reach me: pchepur1@asu.edu | [LinkedIn](www.linkedin.com/in/pchepur1-25p08c03)
