@@ -28,4 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Pravallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chepuri25&show_icons=true&theme=default)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chepuri25&show_icons=true&theme=default&count_private=true" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chepuri25&layout=compact&theme=default" width="335"/>
