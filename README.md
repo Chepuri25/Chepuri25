@@ -29,6 +29,6 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chepuri25&show_icons=true&theme=default&count_private=true" width="400"/>
+![](https://komarev.com/ghpvc/?username=Chepuri25&color=blue&style=flat&label=Profile+Views)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chepuri25&layout=compact&theme=default" width="335"/>
+**📁 Repositories:** 5 &nbsp;|&nbsp; **⭐ Projects:** 4 &nbsp;|&nbsp; **📝 Contributions:** 24+
