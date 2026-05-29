@@ -23,8 +23,9 @@
 |---|---|---|
 | [🎬 MovieLens Recommendation System](https://github.com/Chepuri25/movielens-recommendation-system) | SVD-based collaborative filtering, 7% improvement over baseline | Python, Streamlit, NumPy |
 | [⚖️ Fairness in ML](https://github.com/Chepuri25/FairnessML-Group11) | Bias detection and mitigation in ML models | Python, Jupyter |
-
+| [📉 Customer Churn](https://github.com/Chepuri25/customer-churn-prediction) | XGBoost — 80%+ accuracy | Python, XGBoost | [🔗 Live](https://customer-churn-prediction-bb6nuzq3lrgmnfds3cfxam.streamlit.app) |
+| [💬 Sentiment Analysis](https://github.com/Chepuri25/sentiment-analysis-nlp) | TF-IDF + SVM — 85%+ accuracy | Python, NLTK | — |
 ---
 
 ## 📊 GitHub Stats
-![Pravallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chepuri25&show_icons=true&theme=default)
+![Pravallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chepuri25&show_icons=true&theme=default&hide_border=true)
